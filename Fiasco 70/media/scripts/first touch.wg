@@ -1,0 +1,193 @@
+WordGrinder dumpfile v3: this is a text file; diff me!
+.addons.autosave.enabled: false
+.addons.autosave.pattern: "%F.autosave.%T.wg"
+.addons.autosave.period: 10
+.addons.htmlexport.bold_off: "</b>"
+.addons.htmlexport.bold_on: "<b>"
+.addons.htmlexport.italic_off: "</i>"
+.addons.htmlexport.italic_on: "<i>"
+.addons.htmlexport.underline_off: "</u>"
+.addons.htmlexport.underline_on: "<u>"
+.addons.pagecount.enabled: false
+.addons.pagecount.wordsperpage: 250
+.addons.scrapbook.document: "Scrapbook"
+.addons.scrapbook.pattern: "Item from '%N' at %T:"
+.addons.scrapbook.timestamp: true
+.addons.smartquotes.doublequotes: false
+.addons.smartquotes.leftdouble: "“"
+.addons.smartquotes.leftsingle: "‘"
+.addons.smartquotes.notinraw: true
+.addons.smartquotes.rightdouble: "”"
+.addons.smartquotes.rightsingle: "’"
+.addons.smartquotes.singlequotes: false
+.addons.spellchecker.enabled: false
+.addons.spellchecker.usesystemdictionary: true
+.addons.spellchecker.useuserdictionary: true
+.documents.1.co: 1
+.documents.1.cp: 1
+.documents.1.cw: 1
+.documents.1.margin: 0
+.documents.1.name: "main"
+.documents.1.viewmode: 1
+.documents.1.wordcount: 1
+.documents.2.co: 9
+.documents.2.cp: 42
+.documents.2.cw: 31
+.documents.2.margin: 0
+.documents.2.name: "first touch"
+.documents.2.viewmode: 1
+.documents.2.wordcount: 456
+.fileformat: 8
+.menu.accelerators.BACKSPACE: "ZDPC"
+.menu.accelerators.DELETE: "ZDNC"
+.menu.accelerators.DOWN: "ZD"
+.menu.accelerators.EC: "^C"
+.menu.accelerators.ECadd: "^M"
+.menu.accelerators.ECfind: "^L"
+.menu.accelerators.EF: "^F"
+.menu.accelerators.EG: "^G"
+.menu.accelerators.EN: "^K"
+.menu.accelerators.END: "ZE"
+.menu.accelerators.EP: "^V"
+.menu.accelerators.ER: "^R"
+.menu.accelerators.ET: "^X"
+.menu.accelerators.Eredo: "^Y"
+.menu.accelerators.Eundo: "^Z"
+.menu.accelerators.FQ: "^Q"
+.menu.accelerators.FS: "^S"
+.menu.accelerators.HOME: "ZH"
+.menu.accelerators.LEFT: "ZL"
+.menu.accelerators.PGDN: "ZPGDN"
+.menu.accelerators.PGUP: "ZPGUP"
+.menu.accelerators.RIGHT: "ZR"
+.menu.accelerators.SB: "^B"
+.menu.accelerators.SDOWN: "ZSD"
+.menu.accelerators.SEND: "ZSE"
+.menu.accelerators.SHOME: "ZSH"
+.menu.accelerators.SI: "^I"
+.menu.accelerators.SLEFT: "ZSL"
+.menu.accelerators.SO: "^O"
+.menu.accelerators.SP: "^P"
+.menu.accelerators.SPGDN: "ZSPGDN"
+.menu.accelerators.SPGUP: "ZSPGUP"
+.menu.accelerators.SRIGHT: "ZSR"
+.menu.accelerators.SU: "^U"
+.menu.accelerators.SUP: "ZSU"
+.menu.accelerators.S^DOWN: "ZSNP"
+.menu.accelerators.S^LEFT: "ZSWL"
+.menu.accelerators.S^PGDN: "ZSED"
+.menu.accelerators.S^PGUP: "ZSBD"
+.menu.accelerators.S^RIGHT: "ZSWR"
+.menu.accelerators.S^UP: "ZSPP"
+.menu.accelerators.UP: "ZU"
+.menu.accelerators.ZBD: "^PGUP"
+.menu.accelerators.ZD: "DOWN"
+.menu.accelerators.ZDNC: "DELETE"
+.menu.accelerators.ZDPC: "BACKSPACE"
+.menu.accelerators.ZDW: "^E"
+.menu.accelerators.ZE: "END"
+.menu.accelerators.ZED: "^PGDN"
+.menu.accelerators.ZH: "HOME"
+.menu.accelerators.ZL: "LEFT"
+.menu.accelerators.ZM: "^@"
+.menu.accelerators.ZNP: "^DOWN"
+.menu.accelerators.ZPGDN: "PGDN"
+.menu.accelerators.ZPGUP: "PGUP"
+.menu.accelerators.ZPP: "^UP"
+.menu.accelerators.ZR: "RIGHT"
+.menu.accelerators.ZSBD: "S^PGUP"
+.menu.accelerators.ZSD: "SDOWN"
+.menu.accelerators.ZSE: "SEND"
+.menu.accelerators.ZSED: "S^PGDN"
+.menu.accelerators.ZSH: "SHOME"
+.menu.accelerators.ZSL: "SLEFT"
+.menu.accelerators.ZSNP: "S^DOWN"
+.menu.accelerators.ZSPGDN: "SPGDN"
+.menu.accelerators.ZSPGUP: "SPGUP"
+.menu.accelerators.ZSPP: "S^UP"
+.menu.accelerators.ZSR: "SRIGHT"
+.menu.accelerators.ZSU: "SUP"
+.menu.accelerators.ZSW: "^W"
+.menu.accelerators.ZSWL: "S^LEFT"
+.menu.accelerators.ZSWR: "S^RIGHT"
+.menu.accelerators.ZU: "UP"
+.menu.accelerators.ZWL: "^LEFT"
+.menu.accelerators.ZWR: "^RIGHT"
+.menu.accelerators.^@: "ZM"
+.menu.accelerators.^B: "SB"
+.menu.accelerators.^C: "EC"
+.menu.accelerators.^DOWN: "ZNP"
+.menu.accelerators.^E: "ZDW"
+.menu.accelerators.^F: "EF"
+.menu.accelerators.^G: "EG"
+.menu.accelerators.^I: "SI"
+.menu.accelerators.^K: "EN"
+.menu.accelerators.^L: "ECfind"
+.menu.accelerators.^LEFT: "ZWL"
+.menu.accelerators.^M: "ECadd"
+.menu.accelerators.^O: "SO"
+.menu.accelerators.^P: "SP"
+.menu.accelerators.^PGDN: "ZED"
+.menu.accelerators.^PGUP: "ZBD"
+.menu.accelerators.^Q: "FQ"
+.menu.accelerators.^R: "ER"
+.menu.accelerators.^RIGHT: "ZWR"
+.menu.accelerators.^S: "FS"
+.menu.accelerators.^U: "SU"
+.menu.accelerators.^UP: "ZPP"
+.menu.accelerators.^V: "EP"
+.menu.accelerators.^W: "ZSW"
+.menu.accelerators.^X: "ET"
+.menu.accelerators.^Y: "Eredo"
+.menu.accelerators.^Z: "Eundo"
+.name: "/home/matei/Poze/BooMX Production/(~) Fiasco 70/media/scripts/first touch.wg"
+.statusbar: false
+.current: 2
+#1
+P 
+.
+#2
+P dude... i have no idea how i ended up here.. i guess ... i guess i can make it right
+P scene 1
+P (Music)
+P (a bright sun is shown, then the camera goes slowly to cuple blocks until a trowaway area is shown, surrounded by blocks. you know cube area surroundings,anyway
+P the are is full of metal parts all around. robot, mecanical, tools all kinds of stuff. however is no actual trash, just broken parts of metal.)
+P (there,Lemon is looking at half made robot, is clearly unfinesd. while she is obsorving the thing, a guy wearing casual cloths with a poster in his heand , goes gently and ask)
+P 
+P THE GUY: hey girl
+P (lemon gets up and looks at him,suprisse of his presence)
+P LEMON:ahhhhh... hi?
+P (the guy looks at her, pointing at the paper, his tone is casual and a bit unconfortable at the same time)
+P THE GUY: are you the uhm... H.I.A team?
+P LEMON: uhm yes, yeah!.. (she looks at the bot she was working on, which is still on ground lifelessly). you see, i didn't expect anyone to come, i actually got a bit desperate and uhm (she points with her eyes to the bot)
+P THE GUY: can't blame you.
+P (they both look at each other for a moment)
+P THE GUY:soo uhm..
+P LEMON: my name is lemon
+P THE GUY: lemon?
+P LEMON: yeah lemon
+P (he looks at her for a bit)
+P THE GUY: oook?.. ahh, do i need a fancy name too?
+P LEMON: if you want to.
+P THE GUY: no thanks. not now
+P LEMON: fair enough! sooo? can help me with this? (pointing at the bot)
+P THE GUY: yeah sure
+P 
+P (redirecting to the tutorial section. you know, nothing speacial i guess)
+P 
+P (time skip)
+P 
+P (both lemon and "the guy" look at the bot. he has now some cloths on him and smile on his face, tho hes is not active yet, but sigh of activity are showing thorought flickes of eyes)
+P (they look at him with atincipation, and not long he gets up, full of life)
+P LEMON: I don't think is gonna get up
+P THE GUY: does it even count anyway? do we really need this thing?
+P LEMON: what team is it, if its not 3 at least
+P THE GUY: yeah.. but they ever mention that in the post?
+P LEMON:ahhhhh (looking at the post)ah no.. nope.. just 2 at least.. damn
+P THE GUY: oh well, we should better get sign in
+P LEMON: and? (pointing at the bot)
+P THE GUY: i don't know, just leave it there, is junk anyway
+P LEMON: ok
+P (main map. from here you can select your moves and get your team or you involve in diffrent ways (also add a paper been sign as a transition to this screen))
+P 
+.
